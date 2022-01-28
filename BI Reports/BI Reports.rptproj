@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD5mYWxzZTwvRW5hYmxlZD4NCiAgPFByb2plY3ROYW1lPjwvUHJvamVjdE5hbWU+DQogIDxBdXhQYXRoPjwvQXV4UGF0aD4NCiAgPExvY2FsUGF0aD48L0xvY2FsUGF0aD4NCiAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+DQo8L1NvdXJjZUNvbnRyb2xJbmZvPg==</State>
+  <DataSources>
+    <ProjectItem>
+      <Name>BI.rds</Name>
+      <FullPath>BI.rds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>FS.rds</Name>
+      <FullPath>FS.rds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <Reports>
+    <ProjectItem>
+      <Name>basic_company_profile.rdl</Name>
+      <FullPath>basic_company_profile.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bcp_finscore.rdl</Name>
+      <FullPath>bcp_finscore.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr ORIG 20190207.rdl</Name>
+      <FullPath>bi_fbr ORIG 20190207.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr TEST.rdl</Name>
+      <FullPath>bi_fbr TEST.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr.rdl</Name>
+      <FullPath>bi_fbr.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr_b5_levels.rdl</Name>
+      <FullPath>bi_fbr_b5_levels.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr_blef_detail.rdl</Name>
+      <FullPath>bi_fbr_blef_detail.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr_c10_levels_bm.rdl</Name>
+      <FullPath>bi_fbr_c10_levels_bm.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr_c10_levels_optmist7.rdl</Name>
+      <FullPath>bi_fbr_c10_levels_optmist7.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr_c10_levels_optmist8.rdl</Name>
+      <FullPath>bi_fbr_c10_levels_optmist8.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr_c10_levels_optmist8_experian.rdl</Name>
+      <FullPath>bi_fbr_c10_levels_optmist8_experian.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr_c10_levels_optmist8_plus.rdl</Name>
+      <FullPath>bi_fbr_c10_levels_optmist8_plus.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr_c10_levels02262020.rdl</Name>
+      <FullPath>bi_fbr_c10_levels02262020.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr_c11_levels_optmist8_cb.rdl</Name>
+      <FullPath>bi_fbr_c11_levels_optmist8_cb.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bi_fbr_with_bm.rdl</Name>
+      <FullPath>bi_fbr_with_bm.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>cb_report.rdl</Name>
+      <FullPath>cb_report.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Copy (2) of bi_fbr.rdl</Name>
+      <FullPath>Copy (2) of bi_fbr.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Copy (3) of bi_fbr.rdl</Name>
+      <FullPath>Copy (3) of bi_fbr.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Copy (4) of bi_fbr.rdl</Name>
+      <FullPath>Copy (4) of bi_fbr.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Copy of bi_fbr.rdl</Name>
+      <FullPath>Copy of bi_fbr.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Copy of financial_benchmark.rdl</Name>
+      <FullPath>Copy of financial_benchmark.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fb_bs.rdl</Name>
+      <FullPath>fb_bs.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fb_combination.rdl</Name>
+      <FullPath>fb_combination.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fb_combination_fbr.rdl</Name>
+      <FullPath>fb_combination_fbr.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fb_fc.rdl</Name>
+      <FullPath>fb_fc.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fb_fc_2y.rdl</Name>
+      <FullPath>fb_fc_2y.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fb_fc_5y.rdl</Name>
+      <FullPath>fb_fc_5y.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fb_fc_fbr.rdl</Name>
+      <FullPath>fb_fc_fbr.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fb_fr test.rdl</Name>
+      <FullPath>fb_fr test.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fb_fr.rdl</Name>
+      <FullPath>fb_fr.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fb_highlight.rdl</Name>
+      <FullPath>fb_highlight.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>fb_is.rdl</Name>
+      <FullPath>fb_is.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>financial_benchmark.rdl</Name>
+      <FullPath>financial_benchmark.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>financial_benchmark_back.rdl</Name>
+      <FullPath>financial_benchmark_back.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>financial_statement.rdl</Name>
+      <FullPath>financial_statement.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>finscore_large.rdl</Name>
+      <FullPath>finscore_large.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>finscore_msme.rdl</Name>
+      <FullPath>finscore_msme.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>rspc_bdo.rdl</Name>
+      <FullPath>rspc_bdo.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>rstc_bdo.rdl</Name>
+      <FullPath>rstc_bdo.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>test_graph.rdl</Name>
+      <FullPath>test_graph.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>testtest.rdl</Name>
+      <FullPath>testtest.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>trade_cards.rdl</Name>
+      <FullPath>trade_cards.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>trade_guarantee_linkedsubject.rdl</Name>
+      <FullPath>trade_guarantee_linkedsubject.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>trade_inst.rdl</Name>
+      <FullPath>trade_inst.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>trade_noninst.rdl</Name>
+      <FullPath>trade_noninst.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>trade_util.rdl</Name>
+      <FullPath>trade_util.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>ztest_template.rdl</Name>
+      <FullPath>ztest_template.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>ztest_template_old.rdl</Name>
+      <FullPath>ztest_template_old.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>bcr_report.rdl</Name>
+      <FullPath>bcr_report.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
+  <Configurations>
+    <Configuration>
+      <Name>Debug</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <TargetServerURL>http://10.255.4.140/ReportServer</TargetServerURL>
+        <TargetFolder>BI</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+        <OverwriteDataSources>true</OverwriteDataSources>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>DebugLocal</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <TargetFolder>BI Reports</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>Release</Name>
+      <Platform>Win32</Platform>
+      <Options>
+        <TargetFolder>BI Reports</TargetFolder>
+        <TargetDataSourceFolder>Data Sources</TargetDataSourceFolder>
+      </Options>
+    </Configuration>
+  </Configurations>
+</Project>
