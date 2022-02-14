@@ -21,6 +21,10 @@
       <FullPath>bcp_finscore.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
+      <Name>bcr_report.rdl</Name>
+      <FullPath>bcr_report.rdl</FullPath>
+    </ProjectItem>
+    <ProjectItem>
       <Name>bi_fbr ORIG 20190207.rdl</Name>
       <FullPath>bi_fbr ORIG 20190207.rdl</FullPath>
     </ProjectItem>
@@ -205,8 +209,8 @@
       <FullPath>ztest_template_old.rdl</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>bcr_report.rdl</Name>
-      <FullPath>bcr_report.rdl</FullPath>
+      <Name>Copy (2) of bcr_report.rdl</Name>
+      <FullPath>Copy (2) of bcr_report.rdl</FullPath>
     </ProjectItem>
   </Reports>
   <Configurations>
